@@ -9,3 +9,7 @@ TODOS:
 * Exit upon counter > 3
 * Improve performance, ie - lookaheads so that we dont have to check every angle of every node
 * Allow for std input
+
+
+Maybe to happen:
+* Implement a graphical interface for each run.
